@@ -13,6 +13,19 @@
   border-radius: 6px;
 }
 
+#un button {
+  border-radius: 6px;
+  font-size: 16px;
+  font-family: ;
+  background-color: #5A9BFF;
+  border-color: black;
+}
+
+#un button:hover {
+  background-color: #111;
+  color: white;
+}
+
 body {
   background-color: #F57D00;
   text-align: center;
